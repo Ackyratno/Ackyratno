@@ -5,7 +5,7 @@
 
   <!-- Анимированная строка -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=C%2B%2B%20%26%20Qt%206%20%2F%20QML%20Developer;Solving%20Problems%20on%20LeetCode;HTML5%20%26%20CSS3%20Layouts" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=C%2B%2B%20%26%20Qt%206%20%2F%20QML%20Developer;Solving%20Problems%20on%20LeetCode;HTML5%20%26%20CSS3%20Layouts;AI-Assisted%20Development" alt="Typing SVG" />
   </a>
 
 </div>
@@ -19,14 +19,15 @@
 - 🌐 Знаю основы веб-верстки на **HTML5** и **CSS3**.
 - 🐧 Работаю в **Linux**, использую **CMake** для сборки и **Git** для контроля версий.
 - 🗄️ Практикую работу с базами данных (**SQLite**).
+- ⚡ Применяю **AI-инструменты** для ускорения рутины, написания тестов и оптимизации кода.
 
 ---
 
-### 🛠️ Стек технологий
+### 🛠️ Основной стек технологий
 
 <div align="center">
 
-  <!-- Крупные иконки основных технологий -->
+  <!-- Крупные иконки основного стека -->
   <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,html,css,sqlite,linux,git,vscode&perline=9" height="60" alt="Tech Stack Icons"/>
 
 </div>
@@ -41,7 +42,21 @@
 | **Алгоритмы & Практика** | `LeetCode (C++)` |
 | **Веб-верстка** | `HTML5` `CSS3` |
 | **Базы данных** | `SQLite` `SQL` |
-| **Инструменты & ОС** | `Git / GitHub` `Linux` `VS Code` `Qt Creator` |
+| **Окружение** | `Linux` `Git / GitHub` `VS Code` `Qt Creator` |
+
+</div>
+
+---
+
+### 🤖 AI-ассистенты и продуктивность *(Вспомогательные инструменты)*
+
+> 💡 *Используются для ускорения рабочего процесса, генерации unit-тестов, документации и анализа краевых случаев.*
+
+<div align="center">
+
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 
 </div>
 
@@ -123,6 +138,7 @@
   <img src="https://streak-stats.demolab.com/?user=BugFix-develop&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+---
 
 ### 📬 Контакты & Профили
 
