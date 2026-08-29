@@ -113,11 +113,16 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BugFix-develop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugFix-develop&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=BugFix-develop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=BugFix-develop&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages"/>
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=BugFix-develop&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
 
 ### 📬 Контакты & Профили
 
