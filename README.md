@@ -1,29 +1,24 @@
 <div align="center">
 
-  <!-- Динамический баннер с анимацией -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35,42&height=220&section=header&text=Hi,%20I'm%20Muslim%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20%26%20Qt%20%2F%20QML%20Desktop%20Developer&descFontSize=19&descAlignY=62&descAlign=50" width="100%"/>
+  <!-- Шапка-баннер -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35,42&height=200&section=header&text=Muslim%20(Ackyratno)&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=C%2B%2B%20%2F%20Qt%206%20%2F%20QML%20%E2%80%A2%20Frontend%20Basics&descFontSize=18&descAlignY=65&descAlign=50" width="100%"/>
 
-  <!-- Анимированная бегущая строка с направлениями -->
+  <!-- Анимированная строка -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Crafting+Modern+Desktop+Apps;C%2B%2B17%2F20+%E2%80%A2+Qt+6+%E2%80%A2+QML;Passionate+about+Clean+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=C%2B%2B%20%26%20Qt%206%20%2F%20QML%20Developer;Solving%20Problems%20on%20LeetCode;HTML5%20%26%20CSS3%20Layouts" alt="Typing SVG" />
   </a>
-
-  <p align="center">
-    <a href="https://github.com/Ackyratno">
-      <img src="https://komarev.com/ghpvc/?username=Ackyratno&style=flat-square&color=6c63ff&label=PROFILE+VIEWS" alt="Profile Views"/>
-    </a>
-  </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Обо мне
+### 👤 Обо мне
 
-- 🔭 Разрабатываю высокопроизводительные настольные приложения на **C++** и **Qt 6 / QML**.
-- 🎨 Уделяю особое внимание современному UI/UX дизайну, плавным анимациям и эргономике интерфейсов.
-- 🏛️ Применяю чистую архитектуру: разделение бизнес-логики и представления, паттерны *Repository*, *MVC / MVVM*.
-- 🛠️ Активно использую **CMake**, **Linux**, **SQLite** и современные стандарты C++.
+- 💻 Разрабатываю настольные приложения на **C++** и **Qt 6 (QML / Qt Quick)**.
+- 🧠 Решаю алгоритмические задачи на **[LeetCode](https://leetcode.com/u/SqbZXXrQWY/)**.
+- 🌐 Изучаю основы веб-верстки на **HTML5** и **CSS3**.
+- 🐧 Работаю в **Linux**, использую **CMake** для сборки и **Git** для контроля версий.
+- 🗄️ Практикую работу с базами данных (**SQLite**).
 
 ---
 
@@ -31,19 +26,30 @@
 
 <div align="center">
 
-| Категория | Технологии & Инструменты |
+  <!-- Крупные иконки основных технологий -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,html,css,sqlite,linux,git,vscode&perline=9" height="65" alt="Tech Stack Icons"/>
+  </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Направление | Стек & Инструменты |
 | :--- | :--- |
-| **Языки** | ![C++](https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Фреймворки & GUI** | ![Qt](https://img.shields.io/badge/Qt_6-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![QML](https://img.shields.io/badge/QML%20%2F%20Qt%20Quick-41CD52?style=for-the-badge&logo=qt&logoColor=white) |
-| **Инструменты сборки** | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge) |
-| **Базы данных & Безопасность** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white) |
-| **Окружение & ОС** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Основной стек** | `C++17` `Qt 6` `QML / Qt Quick` `CMake` |
+| **Алгоритмы & Практика** | `LeetCode (C++)` |
+| **Веб-верстка** | `HTML5` `CSS3` |
+| **Базы данных** | `SQLite` `SQL` |
+| **Инструменты & ОС** | `Git / GitHub` `Linux` `VS Code` `Qt Creator` |
 
 </div>
 
 ---
 
-### 🌟 Избранные проекты
+### 📂 Проекты на Qt 6
 
 <table>
   <tr>
@@ -52,10 +58,10 @@
       <p align="center">
         <img src="https://raw.githubusercontent.com/Ackyratno/QtProjects/main/docs/screenshots/notes_app.png" width="100%" alt="Notes App"/>
       </p>
-      <p>Менеджер заметок с базой данных <b>SQLite</b>, поиском и паттерном <i>Repository</i>.</p>
-      <p><b>Стек:</b> <code>C++17</code> <code>Qt 6 Quick</code> <code>QML</code> <code>SQLite</code></p>
+      <p align="center">Приложение заметок с базой данных <b>SQLite</b> и поиском.</p>
+      <p align="center"><b>Стек:</b> <code>C++</code> <code>Qt 6 Quick</code> <code>QML</code> <code>SQLite</code></p>
       <p align="center">
-        <a href="https://github.com/Ackyratno/QtProjects"><b>Посмотреть репозиторий →</b></a>
+        <a href="https://github.com/Ackyratno/QtProjects"><b>Открыть проект →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -63,23 +69,23 @@
       <p align="center">
         <img src="https://raw.githubusercontent.com/Ackyratno/QtProjects/main/docs/screenshots/image_gallery.png" width="100%" alt="Image Gallery"/>
       </p>
-      <p>Галерея изображений со сканированием папок и адаптивной сеткой карточек.</p>
-      <p><b>Стек:</b> <code>C++17</code> <code>Qt 6 Quick</code> <code>QAbstractListModel</code></p>
+      <p align="center">Галерея для просмотра изображений из локальных папок.</p>
+      <p align="center"><b>Стек:</b> <code>C++</code> <code>Qt 6 Quick</code> <code>QML</code></p>
       <p align="center">
-        <a href="https://github.com/Ackyratno/QtProjects"><b>Посмотреть репозиторий →</b></a>
+        <a href="https://github.com/Ackyratno/QtProjects"><b>Открыть проект →</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧮 Modern Calculator</h3>
+      <h3 align="center">🧮 Calculator</h3>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/Ackyratno/QtProjects/main/docs/screenshots/calculator.png" width="65%" alt="Calculator"/>
+        <img src="https://raw.githubusercontent.com/Ackyratno/QtProjects/main/docs/screenshots/calculator.png" width="60%" alt="Calculator"/>
       </p>
-      <p>Калькулятор с неоморфным темным UI и анимациями нажатий.</p>
-      <p><b>Стек:</b> <code>C++17</code> <code>Qt Quick</code> <code>QML</code></p>
+      <p align="center">Калькулятор с кастомным темным интерфейсом.</p>
+      <p align="center"><b>Стек:</b> <code>C++</code> <code>Qt 6 Quick</code> <code>QML</code></p>
       <p align="center">
-        <a href="https://github.com/Ackyratno/QtProjects"><b>Посмотреть репозиторий →</b></a>
+        <a href="https://github.com/Ackyratno/QtProjects"><b>Открыть проект →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -87,10 +93,10 @@
       <p align="center">
         <img src="https://raw.githubusercontent.com/Ackyratno/QtProjects/main/docs/screenshots/todolist.png" width="100%" alt="To-Do List"/>
       </p>
-      <p>Таск-менеджер с переключением светлой/темной тем и сохранением в JSON.</p>
-      <p><b>Стек:</b> <code>C++17</code> <code>Qt Quick</code> <code>JSON</code></p>
+      <p align="center">Список задач с переключением темы и сохранением в JSON.</p>
+      <p align="center"><b>Стек:</b> <code>C++</code> <code>Qt 6 Quick</code> <code>JSON</code></p>
       <p align="center">
-        <a href="https://github.com/Ackyratno/QtProjects"><b>Посмотреть репозиторий →</b></a>
+        <a href="https://github.com/Ackyratno/QtProjects"><b>Открыть проект →</b></a>
       </p>
     </td>
   </tr>
@@ -98,23 +104,28 @@
 
 ---
 
-### 📊 Статистика GitHub
+### 📊 Статистика профиля & LeetCode
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ackyratno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ackyratno&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+  <a href="https://leetcode.com/u/SqbZXXrQWY/">
+    <img src="https://leetcard.jacoblin.cool/SqbZXXrQWY?theme=dark&font=Fira%20Code&ext=heatmap" height="200" alt="LeetCode Stats"/>
+  </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ackyratno&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ackyratno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ackyratno&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages"/>
 </div>
 
 ---
 
-### 📬 Связаться со мной
+### 📬 Контакты & Профили
 
 <div align="center">
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SqbZXXrQWY/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gulmiratustamova01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ackyratno)
@@ -122,5 +133,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35,42&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35,42&height=90&section=footer" width="100%"/>
 </div>
