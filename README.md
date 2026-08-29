@@ -15,7 +15,7 @@
 ### 👤 Обо мне
 
 - 💻 Разрабатываю настольные приложения на **C++** и **Qt 6 (QML / Qt Quick)**.
-- 🧠 Решаю задачи на **[LeetCode](https://leetcode.com/u/SqbZXXrQWY/)**.
+- 🧠 Решаю задачи на *[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/BigO/).
 - 🌐 Знаю основы веб-верстки на **HTML5** и **CSS3**.
 - 🐧 Работаю в **Linux**, использую **CMake** для сборки и **Git** для контроля версий.
 - 🗄️ Практикую работу с базами данных (**SQLite**).
@@ -107,11 +107,10 @@
 ### 📊 Статистика профиля & LeetCode
 
 <div align="center">
-  <a href="https://leetcode.com/u/SqbZXXrQWY/">
-    <img src="https://leetcard.jacoblin.cool/SqbZXXrQWY?theme=dark&font=Fira%20Code&ext=heatmap" height="200" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/u/НОВЫЙ_НИК/">
+    <img src="https://leetcard.jacoblin.cool/НОВЫЙ_НИК?theme=dark&font=Fira%20Code&ext=heatmap" height="200" alt="LeetCode Stats"/>
   </a>
 </div>
-
 <br>
 
 <div align="center">
