@@ -23,12 +23,18 @@
 
 ---
 
-### 🛠️ Основной стек технологий
+### 🛠️ Стек технологий & AI-ассистенты
 
 <div align="center">
 
-  <!-- Крупные иконки основного стека -->
-  <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,html,css,sqlite,linux,git,vscode&perline=9" height="60" alt="Tech Stack Icons"/>
+  <!-- Основной стек разработки -->
+  <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,html,css,sqlite,linux,git,vscode" height="55" alt="Core Tech Stack"/>
+  
+  &nbsp;&nbsp;&nbsp;<b>│</b>&nbsp;&nbsp;&nbsp;
+
+  <!-- AI-ассистенты -->
+  <a href="https://antigravity.google"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" height="34" alt="Antigravity"/></a>
+  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="34" alt="Claude"/></a>
 
 </div>
 
@@ -43,20 +49,7 @@
 | **Веб-верстка** | `HTML5` `CSS3` |
 | **Базы данных** | `SQLite` `SQL` |
 | **Окружение** | `Linux` `Git / GitHub` `VS Code` `Qt Creator` |
-
-</div>
-
----
-
-### 🤖 AI-ассистенты и продуктивность *(Вспомогательные инструменты)*
-
-> 💡 *Используются для ускорения рабочего процесса, генерации unit-тестов, документации и анализа краевых случаев.*
-
-<div align="center">
-
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
-[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+| **AI-ассистенты** | `Antigravity` `Claude` *(генерация тестов, поиск краевых случаев, рефакторинг)* |
 
 </div>
 
