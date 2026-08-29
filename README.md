@@ -33,7 +33,7 @@
 
 | Категория | Технологии & Инструменты |
 | :--- | :--- |
-| **Языки** | ![C++](https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Языки** | ![C++](https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) |
 | **Фреймворки & GUI** | ![Qt](https://img.shields.io/badge/Qt_6-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![QML](https://img.shields.io/badge/QML%20%2F%20Qt%20Quick-41CD52?style=for-the-badge&logo=qt&logoColor=white) |
 | **Инструменты сборки** | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge) |
 | **Базы данных & Безопасность** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white) |
