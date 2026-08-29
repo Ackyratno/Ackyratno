@@ -125,9 +125,9 @@
 
 <div align="center">
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ackyratno)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SqbZXXrQWY/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gulmiratustamova01@gmail.com)
+[![Email](https://img.shields.io/badge/Yandex_Mail-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white)](mailto:muslimrustamo@yandex.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ackyratno)
 
 </div>
@@ -135,3 +135,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35,42&height=90&section=footer" width="100%"/>
 </div>
+```
