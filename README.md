@@ -15,7 +15,7 @@
 ### 👤 Обо мне
 
 - 💻 Разрабатываю настольные приложения на **C++** и **Qt 6 (QML / Qt Quick)**.
-- 🧠 Решаю задачи на *[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/BigO/).
+- 🧠 Решаю алгоритмические задачи на **[LeetCode](https://leetcode.com/u/SqbZXXrQWY/)**.
 - 🌐 Знаю основы веб-верстки на **HTML5** и **CSS3**.
 - 🐧 Работаю в **Linux**, использую **CMake** для сборки и **Git** для контроля версий.
 - 🗄️ Практикую работу с базами данных (**SQLite**).
@@ -27,9 +27,7 @@
 <div align="center">
 
   <!-- Крупные иконки основных технологий -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,html,css,sqlite,linux,git,vscode&perline=9" height="65" alt="Tech Stack Icons"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,html,css,sqlite,linux,git,vscode&perline=9" height="60" alt="Tech Stack Icons"/>
 
 </div>
 
@@ -61,7 +59,7 @@
       <p align="center">Приложение заметок с базой данных <b>SQLite</b> и поиском.</p>
       <p align="center"><b>Стек:</b> <code>C++</code> <code>Qt 6 Quick</code> <code>QML</code> <code>SQLite</code></p>
       <p align="center">
-        <a href="https://github.com/BugFix-develop/QtProjects"><b>Открыть проект →</b></a>
+        <a href="https://github.com/BugFix-develop/QtProjects"><b>Открыть репозиторий →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -72,22 +70,11 @@
       <p align="center">Галерея для просмотра изображений из локальных папок.</p>
       <p align="center"><b>Стек:</b> <code>C++</code> <code>Qt 6 Quick</code> <code>QML</code></p>
       <p align="center">
-        <a href="https://github.com/BugFix-develop/QtProjects"><b>Открыть проект →</b></a>
+        <a href="https://github.com/BugFix-develop/QtProjects"><b>Открыть репозиторий →</b></a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧮 Calculator</h3>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/BugFix-develop/QtProjects/main/docs/screenshots/calculator.png" width="60%" alt="Calculator"/>
-      </p>
-      <p align="center">Калькулятор с кастомным темным интерфейсом.</p>
-      <p align="center"><b>Стек:</b> <code>C++</code> <code>Qt 6 Quick</code> <code>QML</code></p>
-      <p align="center">
-        <a href="https://github.com/BugFix-develop/QtProjects"><b>Открыть проект →</b></a>
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">✅ To-Do List</h3>
       <p align="center">
@@ -96,7 +83,18 @@
       <p align="center">Список задач с переключением темы и сохранением в JSON.</p>
       <p align="center"><b>Стек:</b> <code>C++</code> <code>Qt 6 Quick</code> <code>JSON</code></p>
       <p align="center">
-        <a href="https://github.com/BugFix-develop/QtProjects"><b>Открыть проект →</b></a>
+        <a href="https://github.com/BugFix-develop/QtProjects"><b>Открыть репозиторий →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧮 Calculator</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/BugFix-develop/QtProjects/main/docs/screenshots/calculator.png" width="62%" alt="Calculator"/>
+      </p>
+      <p align="center">Калькулятор с кастомным темным интерфейсом.</p>
+      <p align="center"><b>Стек:</b> <code>C++</code> <code>Qt 6 Quick</code> <code>QML</code></p>
+      <p align="center">
+        <a href="https://github.com/BugFix-develop/QtProjects"><b>Открыть репозиторий →</b></a>
       </p>
     </td>
   </tr>
@@ -107,10 +105,11 @@
 ### 📊 Статистика профиля & LeetCode
 
 <div align="center">
-  <a href="https://leetcode.com/u/НОВЫЙ_НИК/">
-    <img src="https://leetcard.jacoblin.cool/НОВЫЙ_НИК?theme=dark&font=Fira%20Code&ext=heatmap" height="200" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/u/SqbZXXrQWY/">
+    <img src="https://leetcard.jacoblin.cool/SqbZXXrQWY?theme=dark&font=Fira%20Code&ext=heatmap" height="195" alt="LeetCode Stats"/>
   </a>
 </div>
+
 <br>
 
 <div align="center">
