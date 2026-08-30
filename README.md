@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Шапка-баннер -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35,42&height=200&section=header&text=Muslim%20(BugFix)&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=C%2B%2B%20%2F%20Qt%206%20%2F%20QML%20%E2%80%A2%20Frontend%20Basics&descFontSize=18&descAlignY=65&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35,42&height=200&section=header&text=BugFix&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=C%2B%2B%20%2F%20Qt%206%20%2F%20QML%20%E2%80%A2%20Frontend%20Basics&descFontSize=18&descAlignY=65&descAlign=50" width="100%"/>
 
   <!-- Анимированная строка -->
   <a href="https://git.io/typing-svg">
